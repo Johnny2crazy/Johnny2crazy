@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Johnny2crazy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Johnny2crazy/Johnny2crazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in anything 
+- 🌱 I’m currently learning nothing 
+- 💞️ I’m looking to collaborate on idk
+- 📫 How to reach me is by email or phone 
